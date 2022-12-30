@@ -1,5 +1,9 @@
 {"info":[
   {
+    "Version":"1.6.3",
+    "UorF":"1.添加线程数提示\r\n2.修复request.data文件自动读取时含有formdata数据导致错误的问题"
+  },
+  {
     "Version":"1.6.0",
     "UorF":"1.新功能:添加证书访问\r\n2.修复某些content-type返回编码不正确问题\r\n3.修复路径框里带引号会出错的问题"
   },
