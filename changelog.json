@@ -1,5 +1,9 @@
 {"info":[
   {
+    "Version":"1.6.5",
+    "UorF":"1.从exe分离dll,可以自行配置dll文件路径,从而可以多个exe调用同一个dll,减少硬盘存储空间\r\n2.修复某些出错情况下,手动重发按钮不可用的bug"
+  },
+  {
     "Version":"1.6.3",
     "UorF":"1.添加线程数提示\r\n2.修复request.data文件自动读取时含有formdata数据导致错误的问题"
   },
